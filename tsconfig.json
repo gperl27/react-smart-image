@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx", 
+        "lib": ["DOM", "ES6"],
+        "isolatedModules": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "resolveJsonModule": true
+    },
+    "include": ["src"]
+}
